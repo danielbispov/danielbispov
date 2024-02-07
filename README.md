@@ -5,7 +5,7 @@
 I am a Software Engineer interested and experienced in Software Development
 
 ### 💭 I am currently:
-- 🔭 Working as a Software Engineer developing components solutions for Bixby platform
+- 🔭 Working as a Software Engineer developing Samsung's Bixby platform components
 - 🌱 Constantly learning about Software Development
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
